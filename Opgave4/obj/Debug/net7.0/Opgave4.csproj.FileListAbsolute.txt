@@ -1,0 +1,15 @@
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\bin\Debug\net7.0\Opgave4.exe
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\bin\Debug\net7.0\Opgave4.deps.json
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\bin\Debug\net7.0\Opgave4.runtimeconfig.json
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\bin\Debug\net7.0\Opgave4.dll
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\bin\Debug\net7.0\Opgave4.pdb
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\obj\Debug\net7.0\Opgave4.csproj.AssemblyReference.cache
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\obj\Debug\net7.0\Opgave4.GeneratedMSBuildEditorConfig.editorconfig
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\obj\Debug\net7.0\Opgave4.AssemblyInfoInputs.cache
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\obj\Debug\net7.0\Opgave4.AssemblyInfo.cs
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\obj\Debug\net7.0\Opgave4.csproj.CoreCompileInputs.cache
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\obj\Debug\net7.0\Opgave4.dll
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\obj\Debug\net7.0\refint\Opgave4.dll
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\obj\Debug\net7.0\Opgave4.pdb
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\obj\Debug\net7.0\Opgave4.genruntimeconfig.cache
+H:\Skole\H2\Kodning\C# programmering basis tråd øvelser\Opgave4\obj\Debug\net7.0\ref\Opgave4.dll
